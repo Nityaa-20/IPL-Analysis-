@@ -14,3 +14,4 @@ This project presents an interactive IPL (Indian Premier League) analysis dashbo
 - Power BI – Data visualization  
 - DAX (Data Analysis Expressions) – Measures and calculations  
 - Excel / Dataset – Data source  
+![image alt](https://github.com/Nityaa-20/IPL-Analysis-/blob/438ad5ac54b76102987aa19eb5b8c4174a1cbcb7/Screenshot%202026-03-28%20213347.png)
